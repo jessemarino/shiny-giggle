@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/shiny-giggle/static/js/main.edd9ac3a.chunk.js",
+    "main.js.map": "/shiny-giggle/static/js/main.edd9ac3a.chunk.js.map",
+    "runtime-main.js": "/shiny-giggle/static/js/runtime-main.72f4b10f.js",
+    "runtime-main.js.map": "/shiny-giggle/static/js/runtime-main.72f4b10f.js.map",
+    "static/js/2.0025a86e.chunk.js": "/shiny-giggle/static/js/2.0025a86e.chunk.js",
+    "static/js/2.0025a86e.chunk.js.map": "/shiny-giggle/static/js/2.0025a86e.chunk.js.map",
+    "index.html": "/shiny-giggle/index.html",
+    "static/js/2.0025a86e.chunk.js.LICENSE.txt": "/shiny-giggle/static/js/2.0025a86e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72f4b10f.js",
+    "static/js/2.0025a86e.chunk.js",
+    "static/js/main.edd9ac3a.chunk.js"
+  ]
+}
